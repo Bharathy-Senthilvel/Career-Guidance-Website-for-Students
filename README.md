@@ -23,6 +23,7 @@ This project aims to design and develop a static career guidance website utilizi
 ![image](https://github.com/user-attachments/assets/3877e5dd-eb9d-4006-a9ab-cbdc852c25ca)
 ![image](https://github.com/user-attachments/assets/3e6bf636-56d6-45a1-b4ea-64dd0fa2e164)
 ![image](https://github.com/user-attachments/assets/38587db4-e008-4502-9d2b-c734a86ee46b)
+![image](https://github.com/user-attachments/assets/803a2457-767e-426b-a802-d2a633914883)
 
 
 
